@@ -1,6 +1,6 @@
 Project URL: https://www.udacity.com/course/viewer/#!/c-nd002/l-3176718735/m-3155168710
 
-Does ridership on the NYC subway increase when it rains?  
+Does ridership on the NYC subway increase with rain?  
 
 This project uses statistical tests, linear regression and visualization to answer this question.
 
